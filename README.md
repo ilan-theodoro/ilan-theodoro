@@ -1,4 +1,13 @@
-### Hi there 👋
+# 👋 Hi, I'm Ilan!
+
+Welcome to my GitHub profile! I'm a **Software Engineer** at the **Chan Zuckerberg Biohub**, where I develop and collaborate on really cool stuff for the awesome [Royer Lab](https://github.com/royerlab) Team. My main interest lie in Computer Vision, with a special focus on **bioimage analysis**. 
+
+## 🤝 Let’s Connect
+
+I’m always excited to chat about new ideas, collaborate on projects, or just share experiences. Reach out if you’d like to connect or learn more about my work:
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ilan-silva)
+- 📧 [ilan.silva@czbiohub.org](mailto:ilan.silva@czbiohub.org)
 
 <!--
 **ilan-theodoro/ilan-theodoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
